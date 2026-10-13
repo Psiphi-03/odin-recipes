@@ -1,0 +1,16 @@
+*{
+    background-color: bisque;
+}
+
+body{
+    font-family: cursive, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline wavy;
+    text-decoration-color: rgb(255, 85, 0);
+}
